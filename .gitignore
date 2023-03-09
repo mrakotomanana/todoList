@@ -1,3 +1,6 @@
 *.txt
-temp/
-*.code-workspace 
+tmp/
+*.code-workspace
+coverage/
+dossier/
+public/

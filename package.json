@@ -1,0 +1,27 @@
+{
+  "name": "projet-git",
+  "version": "1.0.0",
+  "description": "todo list node js html css",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrakotomanana/todoList.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "node",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrakotomanana/todoList/issues"
+  },
+  "homepage": "https://github.com/mrakotomanana/todoList#readme"
+}
